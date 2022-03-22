@@ -1,6 +1,6 @@
 
- <img src="https://d.top4top.io/p_22721ro5x1.png" width=1000px height=300px>
- +<h1 align="center" style='color:red'>Ahmed elabid elsalih</h1>
+ <img src="https://d.top4top.io/p_22721ro5x1.png" width=100% height=300px>
+ <h1 align="center" style='color:red'>Ahmed elabid elsalih</h1>
 <h3 align="center">I'm a Frontend Web Development From Syria</h3>
 <!--
 **ahmedelabidelsalih/ahmedelabidelsalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
