@@ -1,6 +1,7 @@
-<h1 align="center" color="red">Ahmed elabid elsalih</h1>
-<h3 align="center">I'm a frontend developer from syria</h3>
+
  <img src="https://d.top4top.io/p_22721ro5x1.png" width=1000px height=300px>
+ <h1 align="center" color="red">Ahmed elabid elsalih</h1>
+<h3 align="center">I'm a frontend developer from syria</h3>
 <!--
 **ahmedelabidelsalih/ahmedelabidelsalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
