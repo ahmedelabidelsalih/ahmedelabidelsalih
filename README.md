@@ -1,4 +1,4 @@
-<h1 align="center">Ahmed elabid elsalih</h1>
+<h1 align="center" color="red">Ahmed elabid elsalih</h1>
 <h3 align="center">I'm a frontend developer from syria</h3>
 
 <!--
