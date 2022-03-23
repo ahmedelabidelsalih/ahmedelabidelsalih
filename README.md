@@ -1,27 +1,28 @@
 
  <img src="https://d.top4top.io/p_22721ro5x1.png" width=100% height=300px>
- <h1 align="center" style='color:red'>Ahmed elabid elsalih</h1>
-<h3 align="center">I'm a Frontend Web Development From Syria</h3>
+<h1 align="center" style='color:red'>Ahmed elabid elsalih</h1><h3 align="center">I'm a Frontend Web Development From Syria</h3>
 
 
 
-<h3 align="left">From My Skills</h3>
-<p align="left">
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-</a></p>
-
-
-
-
-
+<h3 align="center">From MY Skills:</h3>
 <br>
-#Find Me<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Handshake.gif" height="32px"> 
+
+<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </a> </p>
 
 
-[<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ahmed-elabid-elsalih-ab7b7a171/)  [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Twitter.svg" alt="Twitter Logo" width="32">](https://twitter.com/ElsalihAhmed)   [<img src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:Ahmed.elabid.elsalih@gmail.com)
 
-<!--
+
+
+
+<h3 align="center">Find Me</h3>
+<h4 align="center"><img a src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Handshake.gif" height="32px"> 
+</h4>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ahmed-elabid-elsalih-ab7b7a171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muccorn" height="30" width="40" /></a>
+<a href="https://twitter.com/ElsalihAhmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mucahitkok" height="30" width="40" /></a>
+<a href="Ahmed.elabid.elsalih@gmail.com" target="blank"><img align="center" src="https://github.com/HeshamAdel007/HeshamAdel007/blob/master/Assets/Gmail.svg" alt="Ahmed" height="30" width="40" /></a>
+
+</p>
+
+
